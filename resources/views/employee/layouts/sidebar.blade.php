@@ -1,0 +1,1 @@
+@include('dftqc.partials.sidebar')
